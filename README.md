@@ -1,5 +1,5 @@
 ![GitHub](https://img.shields.io/github/license/zichenace/PHP-Random-Pic-API?style=flat-square)
-[![Lines of Code](https://tokei.rs/b1/github/zi-c/ZiBot?category=code&label=Lines%20of%20Code&style=flat-square)]
+![Lines of Code](https://tokei.rs/b1/github/zi-c/ZiBot?category=code&label=Lines%20of%20Code&style=flat-square)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/zichenace/PHP-Random-Pic-API?style=flat-square)
 
 ---
